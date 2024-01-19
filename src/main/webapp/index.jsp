@@ -7,5 +7,6 @@
 <p>Day 5</p>
 <p>Day 5 new testing</p>
 <p> Test ansible </p>
+<p> Test ansible and deploy war file </p>
 </body>
 </html>
